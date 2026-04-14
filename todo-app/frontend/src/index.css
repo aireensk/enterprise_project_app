@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: #eef5ef;
+}
+
+.app {
+  text-align: center;
+}
+
+.navbar {
+  background: #7fb77e;
+  color: white;
+  padding: 20px;
+  font-size: 24px;
+  border-radius: 0 0 20px 20px;
+}
+
+.card {
+  background: white;
+  padding: 30px;
+  margin: 40px auto;
+  width: 350px;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+  width: 80%;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background: #7fb77e;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #6aa56a;
+}
